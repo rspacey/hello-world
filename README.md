@@ -1,5 +1,8 @@
 # hello-world
 
-Hello Humans !
+
+Hi Humans!
+
+My favourite hobby is modern Board Games
 
 just another repository
